@@ -1,0 +1,20 @@
+# Moonsworn
+
+> Moonsworn is a hand-painted side-scrolling arcade beat 'em up (brawler) based on Celtic mythology, for iPhone, iPad and Android (also macOS and Windows), made by independent developer Samuel Gomes. Up to 4 players: solo, local co-op on one screen, or online co-op. Isle I is free; "The Full Moon" is a one-time $5.99 purchase that unlocks Isles II to V, the ending and online co-op. No ads, no energy timers, no loot boxes, nothing pay-to-win.
+
+## Facts
+- Genre: beat 'em up, brawler, arcade action, side-scroller
+- Heroes: Cael (all-rounder, sickle and glaive), Aoife (speed: spear reach, double jump, air combos), the Púca (power: grabs and throws)
+- Moon Meter: blows fill it; heroes bulk up at Crescent and Half Moon, and at Full Moon transform into the isle's beast
+- Beasts: Moon Wolf, Sea Drake (flies), Cave Bear, Cat Sìth, White Stag
+- Isles and guardian bosses: The Barrowmoor (the Cairn King), The Drowned Grottos (the Tide Hag), The Rootdeep (the Hollow Oak), The Sunken Abbey (the Bell Abbess), The Eclipse Citadel (Malvane, the Eclipse Herald)
+- Difficulties: Beginner, Normal, Hard, Very Hard
+- Controls: touch (punch, kick, jump, special) or MFi / Xbox / PlayStation controllers
+- Extras (cosmetic): Moon Colours $1.99 (hero colourways), Supporter's Offering $2.99 (art gallery, title crest), Complete Edition $7.99
+- Privacy: collects no personal data; no accounts, analytics or ads
+
+## Links
+- [Website](https://samukbg.github.io/moonsworn-game/)
+- [App Store](https://apps.apple.com/app/id6824372200)
+- [Support](https://samukbg.github.io/moonsworn-game/support/)
+- [Privacy policy](https://samukbg.github.io/moonsworn-game/privacy/)
